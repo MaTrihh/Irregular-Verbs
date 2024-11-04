@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218381502765",
+    "project_id": "irregularverbs-e5b93",
+    "storage_bucket": "irregularverbs-e5b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218381502765:android:be3378d4a4a80653f26ba4",
+        "android_client_info": {
+          "package_name": "com.example.irregular_verbs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVkQ0XCyGM3sM2LcFslUMqzju1Mdt8dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
